@@ -1,4 +1,4 @@
-// But:    Écrire un programme pour calculer le montant qu’un individu devra débourser 
+// But:   Écrire un programme pour calculer le montant qu’un individu devra débourser 
 //        pour faire un voyage dans une automobile louée.
 //
 // Nom:   Nicolas Paquette
