@@ -1,8 +1,8 @@
-//But:Écrire un programme pour calculer le montant qu’un individu devra débourser 
-//    pour faire un voyage dans une automobile louée.
-//Nom:Nicolas Paquette
-//Date:2020-09-14
-
+// But:    Écrire un programme pour calculer le montant qu’un individu devra débourser 
+//        pour faire un voyage dans une automobile louée.
+//
+// Nom:   Nicolas Paquette
+// Date:  2020-09-14
 
 #include <iostream>
 using namespace std;
@@ -49,8 +49,6 @@ int main()
         cout << "Cout supplementaire du kilometre de trop :" << coutKiloDeTrop << "$" << endl;
     }
    
-    
-
     //afficher le cout total
     coutTotal = coutKiloDeTrop + coutLocationTotal + coutEssence;
     cout << "cout total :" << coutTotal << "$" << endl;
